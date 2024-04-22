@@ -20,7 +20,7 @@ function Login() {
           width={50}
           height={50}
         />
-        <h1 className="font-bold text-4xl text-white">SHINGBY LOTTO DAPP</h1>
+        <h1 className="font-bold text-4xl text-white">RAFFLE LOTTO DAPP</h1>
         <h2 className="text-white mt-3 mb-3">Login to get started</h2>
         <button
           onClick={handleClick}
