@@ -14,7 +14,7 @@ function Loading() {
           height={80}
         />
         <h1 className="text-white text-lg text-bold">
-          Loading the SHINGBY DRAW
+          Loading the Raffle
         </h1>
       </div>
       <PropagateLoader color="white" size={20} />
