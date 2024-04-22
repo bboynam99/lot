@@ -12,7 +12,7 @@ function Footer() {
         width={10}
         height={10}
       />
-      <p className="text-xs text-emerald-200 pl-5">SHINGBY DRAW </p>
+      <p className="text-xs text-emerald-200 pl-5">RAFFLE </p>
       <p className="text-xs text-emerald-200 pl-5">{currentYear} </p>
     </footer>
   );
